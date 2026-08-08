@@ -1,0 +1,13 @@
+IMBD/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.csv
+*.h5
+*.keras
+*.pkl
+.vscode/
+.idea/
